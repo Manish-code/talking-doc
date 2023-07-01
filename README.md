@@ -1,4 +1,4 @@
-# 🦜🔗 LangChain - Ask the Doc
+# 🦜🔗 Talking Doc
 
 Build a Document Question Answering app using LangChain and Streamlit.
 
